@@ -34,3 +34,9 @@
 ## Заключение
 
 ## Работа с ццветом
+Для того чтобы добавить какой либо фоновый цвет, необходимо использоать HTML теги.
+<table>
+<tr><td bgcolor="#ED002F">
+<img src="https://mobimg.b-cdn.net/v3/fetch/4a/4a5db7ad6049ba5880c99359b5b6bd17.jpeg">
+</td></tr>
+</table>
